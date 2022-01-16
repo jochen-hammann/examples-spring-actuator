@@ -7,7 +7,7 @@
     <artifactId>actuator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>actuator</name>
+    <name>Spring Boot Actuator</name>
     <description>Demo project for Spring Boot Actuator.</description>
 
     <!-- ============================== [Parent] ============================== -->
